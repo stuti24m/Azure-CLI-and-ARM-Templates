@@ -1,2 +1,2 @@
 # Azure-CLI
-A virtual network for multi-tier applications using an Azure CLI script 
+✨ A virtual network for multi-tier applications using an Azure CLI script 
