@@ -47,5 +47,16 @@ Azure supports the following types of peering:
         - Getting the id for VNet2
         - Peering VNet1 to VNet2
         - Peering VNet2 to VNet1
-       
-https://docs.microsoft.com/en-us/azure/virtual-network/
+## Cleaning up Deployment --
+
+        - az group delete --name MyResourceGroup --yes
+Deletes the created resources.
+<br>
+<br>
+<br>
+That's it!<br> 
+This how Multi-Tier Architecture and Vnet Peering are being implemented in <a href = "https://azure.microsoft.com/en-in/features/azure-portal/" > Azure </a>
+For more reference can read and refer the following documentation ➡ <a href = "https://docs.microsoft.com/en-us/azure/virtual-network/" > Documentation </a>
+<br>
+<br>
+Cheerio!! 🙋🏻‍♀️
