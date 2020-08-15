@@ -39,18 +39,6 @@ Azure supports the following types of peering:
 - The ability to peer virtual networks created through the Azure Resource Manager.
 - The ability to peer a virtual network created through Resource Manager to one created through the classic deployment model. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+##### ✔Steps Used --
+        - Created
 https://docs.microsoft.com/en-us/azure/virtual-network/
