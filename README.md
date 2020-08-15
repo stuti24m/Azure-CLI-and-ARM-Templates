@@ -40,5 +40,12 @@ Azure supports the following types of peering:
 - The ability to peer a virtual network created through Resource Manager to one created through the classic deployment model. 
 
 ##### ✔Steps Used --
-        - Created
+        - Created a resource group
+        - Created virtual network 1
+        - Created virtual network 2
+        - Getting the id for VNet1
+        - Getting the id for VNet2
+        - Peering VNet1 to VNet2
+        - Peering VNet2 to VNet1
+       
 https://docs.microsoft.com/en-us/azure/virtual-network/
