@@ -14,7 +14,7 @@ This script sample creates a virtual network with front-end and back-end subnets
         - Created an NSG rule to allow SSH traffic in from the internet to the frontend subnet
         - Associated the front-end NSG with frontend subnet
         - Created an NSG for backend subnet
-        - Create an NSG rule to block all outbound traffic from the back-end subnet to the Internet
+        - Created an NSG rule to block all outbound traffic from the back-end subnet to the Internet
         - Associated the back-end NSG to the back-end subnet
         - Created a public IP address for the webserver VM.
         - Created a NIC for the webserver VM.
