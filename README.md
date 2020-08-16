@@ -56,7 +56,7 @@ Deletes the created resources.
 <br>
 That's it!<br> 
 This how Multi-Tier Architecture and Vnet Peering are being implemented in <a href = "https://azure.microsoft.com/en-in/features/azure-portal/" > Azure </a>
-<br>For more reference can read and refer the following documentation ➡ <a href = "https://docs.microsoft.com/en-us/azure/virtual-network/" > Documentation </a>
+<br>For more reference you can read and refer the following documentation ➡ <a href = "https://docs.microsoft.com/en-us/azure/virtual-network/" > Documentation </a>
 <br>
 <br>
 Cheerio!! 🙋🏻‍♀️
