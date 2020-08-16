@@ -2,7 +2,7 @@
 ✔The Repo consists of Azure CLI scripts for reference.
 <br>
 <br>
-## Multi-Tier Architecture Implementation --
+## ⭐ Multi-Tier Architecture Implementation --
 ✨ A virtual network for multi-tier applications using an Azure CLI script.
 <br>
 <br>
@@ -22,7 +22,7 @@ This script sample creates a virtual network with front-end and back-end subnets
         - Created a public IP address for the MySQL VM
         - Created a NIC for the MySQL VM
         - Created a MySQL VM in the back-end subnet
-## Virtual Network Peering --
+## ⭐ Virtual Network Peering --
 
 <p>Virtual network peering enables you to seamlessly connect networks in Azure Virtual Network. The virtual networks appear as one for connectivity purposes. The traffic between virtual machines uses the Microsoft backbone infrastructure. Like traffic between virtual machines in the same network, traffic is routed through Microsoft's private network only.<br></p>
 
@@ -47,7 +47,7 @@ Azure supports the following types of peering:
         - Getting the id for VNet2
         - Peering VNet1 to VNet2
         - Peering VNet2 to VNet1
-## Cleaning up Deployment --
+## ⭐ Cleaning up Deployment --
 
         - az group delete --name MyResourceGroup --yes
 Deletes the created resources.
