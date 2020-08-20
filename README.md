@@ -52,6 +52,7 @@ Azure supports the following types of peering:
         - az group delete --name MyResourceGroup --yes
 Deletes the created resources.
 <br>
+## ⭐ Creating VM from a Snapshot --
 <br>
 <br>
 That's it!<br> 
