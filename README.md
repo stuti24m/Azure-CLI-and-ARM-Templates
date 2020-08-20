@@ -53,6 +53,7 @@ Azure supports the following types of peering:
 Deletes the created resources.
 <br>
 ## ⭐ Creating VM from a Snapshot --
+To be explained...!
 <br>
 <br>
 That's it!<br> 
