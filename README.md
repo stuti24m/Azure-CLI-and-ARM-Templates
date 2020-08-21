@@ -55,6 +55,9 @@ Deletes the created resources.
 ## ⭐ Creating VM from a Snapshot --
 To be explained...!
 <br>
+## ⭐ Recovery Service Vault --
+To be explained...!
+<br>
 <br>
 That's it!<br> 
 This how Multi-Tier Architecture and Vnet Peering are being implemented in <a href = "https://azure.microsoft.com/en-in/features/azure-portal/" > Azure </a>
