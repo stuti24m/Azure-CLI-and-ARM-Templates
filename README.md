@@ -50,7 +50,7 @@ Azure supports the following types of peering:
 ## ⭐ Cleaning up Deployment --
 
         - az group delete --name MyResourceGroup --yes
-Deletes the created resources.
+Deletes the created resources on the portal.
 <br>
 ## ⭐ Creating VM from a Snapshot --
 To be explained...!
