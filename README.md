@@ -56,7 +56,10 @@ Deletes the created resources on the portal.
 To be explained...!
 <br>
 ## ⭐ Recovery Service Vault --
-To be explained soon...!
+        - Created a Recovery Service Vault
+        - Applied a backup policy
+        - Trigger the initial backup
+        - Verified backup job status
 <br>
 <br>
 That's it!<br> 
