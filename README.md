@@ -53,6 +53,7 @@ Azure supports the following types of peering:
 Deletes the created resources on the portal.
 <br>
 ## ⭐ Creating VM from a Snapshot --
+
         - Get a snapshot using snapshot name
         - Created a disk configuration. This configuration is used with the disk creation process
         - Created a manage disk
@@ -65,6 +66,7 @@ Deletes the created resources on the portal.
 
 <br>
 ## ⭐ Recovery Service Vault --
+
         - Created a Recovery Service Vault
         - Applied a backup policy
         - Trigger the initial backup
