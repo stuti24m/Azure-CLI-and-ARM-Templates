@@ -1,5 +1,5 @@
 # Azure-CLI -- 
-✔The Repo consists of Azure CLI scripts for reference.
+✔The Repo consists of Azure CLI scripts for reference
 <br>
 <br>
 ## ⭐ Multi-Tier Architecture Implementation --
