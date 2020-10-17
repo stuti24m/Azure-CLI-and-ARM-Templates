@@ -3,7 +3,7 @@
 <br>
 <br>
 ## ⭐ Multi-Tier Architecture Implementation --
-✨ A virtual network for multi-tier applications using an Azure CLI script
+✨ A virtual network for multi-tier applications using an Azure CLI script.
 <br>
 <br>
 This script sample creates a virtual network with front-end and back-end subnets. <br> Traffic to the front-end subnet is limited to HTTP and SSH, while traffic to the back-end subnet is limited to MySQL, port 3306.<br> After running the script, you have two virtual machines, one in each subnet, that you can deploy web server and MySQL software to.<br>
